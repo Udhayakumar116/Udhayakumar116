@@ -23,5 +23,5 @@ Final-year ECE student building AI-powered full-stack apps.
 ![](https://github-profile-trophy.vercel.app/?username=udhayakumar116&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=udhayakumar116&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Udhayakumar116&label=1000&color=0&pretty=false)](https://visitcount.itsvg.in)
 '@ | Set-Content README.md -Encoding utf8

@@ -1,5 +1,4 @@
-$banner = '<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Udhayakumar&fontSize=45&fontColor=ffffff" width="100%" />'
-$banner + "`n`n" + (Get-Content README.md -Raw) | Set-Content README.md -Encoding utf8
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Udhayakumar&fontSize=45&fontColor=ffffff" width="100%" />'
 # 💫 About Me
 ### Hi, I'm Udhayakumar 👋
 
